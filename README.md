@@ -1,7 +1,7 @@
 # retrieve-spotlight
-Small exe to fetch and format correct images from your win 10 spotlight folder
+Small exe to fetch and format correct images from your windows 10 spotlight folder
 
-Usage: `retrieve-spotlight.exe < path to configuration file >`
+Usage: `retrieve-spotlight.exe <path to configuration file>`
 
 Configuration file format:
 
