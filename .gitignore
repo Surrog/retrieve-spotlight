@@ -6,6 +6,7 @@
 *.lo
 *.o
 *.obj
+*.pdb
 
 # Precompiled Headers
 *.gch
@@ -30,3 +31,16 @@
 *.exe
 *.out
 *.app
+
+# Generated stuff
+*.vcxproj
+*.filters
+*.cmake
+CMakeCache.txt
+*.sln
+*.tlog
+*.log
+*.bin
+*CMakeFiles*
+*.vs*
+*.ilk

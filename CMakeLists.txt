@@ -20,4 +20,4 @@ set(SOURCES
 	"${PROJECT_SOURCE_DIR}/stb_image.h"
 	)
 
-add_executable(fixed_test ${SOURCES})
+add_executable(retrieve_spotlight ${SOURCES})

@@ -5,7 +5,7 @@
 #include <cstddef>
 #include <cassert>
 #include "conf_file.hpp"
-#include "../../xtsslib/afilesystem.hpp"
+#include "../xtsslib/afilesystem.hpp"
 
 #define STB_IMAGE_IMPLEMENTATION
 #include "stb_image.h" //source : https://github.com/nothings/stb/blob/master/stb_image.h
